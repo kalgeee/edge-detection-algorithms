@@ -1,0 +1,20 @@
+# MATLAB Files
+*.asv
+*.m~
+*~
+
+# Results and temporary files
+results/
+edge_results_*/
+edge_comparison_*/
+*.mat
+temp/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+*.swp
+*.swo
